@@ -1,2 +1,2 @@
-# House-Pricing
-House Pricing Project
+# Academic Projects
+Academic Projects
